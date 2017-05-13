@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+node_modules/
+.idea/Angular2-test.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/typescript-compiler.xml
+.idea/workspace.xml
+js/
